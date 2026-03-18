@@ -1,0 +1,5 @@
+{
+  "name": "Quiz Interativo",
+  "description": "Simulador de questões baseado no Plano de Curso 2026 de Minas Gerais, utilizando IA para gerar desafios personalizados.",
+  "requestFramePermissions": []
+}
