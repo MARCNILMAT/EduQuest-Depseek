@@ -345,6 +345,7 @@ export const CURRICULUM_DATA = {
         "Fato ou opinião"
       ],
       "Matemática": [
+        "Juros Simples",
         "Números reais: irracionais e reta real",
         "Potências com expoentes negativos e fracionários",
         "Radiciação e propriedades dos radicais",
