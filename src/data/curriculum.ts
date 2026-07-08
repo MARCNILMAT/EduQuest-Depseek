@@ -390,6 +390,7 @@ export const CURRICULUM_DATA = {
       ],
       "Matemática": [
         "Análise de gráficos estatísticos complexos",
+        "Expressões algébricas",
         "Função do 1º grau (Afim) e aplicações",
         "Função do 2º grau (Quadrática) e parábola",
         "Funções: conceito, domínio, imagem e gráfico",
@@ -397,6 +398,7 @@ export const CURRICULUM_DATA = {
         "Matemática financeira: juros compostos",
         "Números reais: irracionais e reta real",
         "Polígonos regulares e áreas complexas",
+        "Polinômios",
         "Porcentagens Sucessivas",
         "Potências com expoentes negativos e fracionários",
         "Probabilidade composta e eventos dependentes",
