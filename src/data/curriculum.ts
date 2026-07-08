@@ -372,17 +372,21 @@ export const CURRICULUM_DATA = {
     "topics": {
       "Língua Portuguesa": [
         "Análise crítica de discursos políticos",
+        "Artigo de opinião e carta de leitor",
         "Coesão e coerência em textos dissertativos",
         "Colocação pronominal",
         "Concordância verbal e nominal complexa",
+        "Debate regrado e argumentação oral",
         "Fato ou opinião",
         "Gêneros digitais: memes, fanfics e podcasts",
         "Intertextualidade e interdiscursividade",
         "Literatura contemporânea e clássicos",
+        "Literatura de cordel",
         "Orações subordinadas adverbiais",
         "Orações subordinadas substantivas e adjetivas",
         "Produção de artigos científicos escolares",
-        "Semântica: sinonímia, antonímia e ambiguidade"
+        "Semântica: sinonímia, antonímia e ambiguidade",
+        "Verbos de ligação"
       ],
       "Matemática": [
         "Análise de gráficos estatísticos complexos",
