@@ -273,8 +273,13 @@ export const CURRICULUM_DATA = {
         "Vozes verbais: ativa, passiva e reflexiva"
       ],
       "Matemática": [
+        "Altura relativa",
+        "Baricentro",
+        "Bissetriz",
         "Círculo e circunferência: comprimento e área",
+        "Classificação dos triângulos",
         "Congruência e semelhança de triângulos",
+        "Definição de mediana de um triângulo",
         "Dízimas periódicas e frações geratrizes",
         "Equações do 1º grau com duas incógnitas",
         "Expressões algébricas e polinômios",
